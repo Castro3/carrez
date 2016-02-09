@@ -1,6 +1,6 @@
 # [How to use]
-Launch the server Server.js first with the command "node Server.js"
-Then access the webpage at the address 127.0.0.1
+Launch the server Server.js first with the command "node Server.js".
+Then access the webpage at the address 127.0.0.1:3000
 
 ## Explanation
 The server use Socket.io, Express to get request and send information to the html page.
