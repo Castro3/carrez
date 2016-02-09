@@ -1,0 +1,27 @@
+.top-buffer {
+    margin-top: 40px;
+}
+
+.top-double {
+    margin-top: 80px;
+}
+
+@font-face {
+    font-family: 'master_of_break'; /*a name to be used later*/
+    src: url('../fonts/master_of_break.ttf'); /*URL to font*/
+}
+@font-face {
+    font-family: 'Market_Leader'; /*a name to be used later*/
+    src: url('../fonts/Market_Leader.ttf'); /*URL to font*/
+}
+
+.title-heading {
+    font-size: 30px;
+    color: #3483c5;
+    font-family: 'master_of_break'
+}
+.text-normal{
+    font-size: 40px;
+    color: #000000;
+    font-family: 'Market_Leader'
+}

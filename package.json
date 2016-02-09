@@ -1,0 +1,26 @@
+{
+  "name": "carrez",
+  "version": "1.0.0",
+  "description": "> node.js workshop based on real estate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Castro3/carrez.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Castro3/carrez/issues"
+  },
+  "homepage": "https://github.com/Castro3/carrez#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "cheerio": "^0.20.0",
+    "express": "^4.13.4",
+    "request": "^2.69.0",
+    "socket.io": "^1.4.5"
+  }
+}
